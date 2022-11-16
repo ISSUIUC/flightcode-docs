@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['magnetometer',['Magnetometer',['../struct_magnetometer.html',1,'']]]
+  ['magnetometer_97',['Magnetometer',['../struct_magnetometer.html',1,'']]]
 ];
